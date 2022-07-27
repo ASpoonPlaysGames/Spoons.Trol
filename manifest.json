@@ -1,0 +1,9 @@
+{
+    "name": "Spoons_Trol",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/ASpoonPlaysGames/Spoons.Trol",
+    "description": "This is a description for a mod. 250 characters max",
+    "dependencies": [
+        "northstar-Northstar-1.9.0"
+    ]
+}
