@@ -1,0 +1,6 @@
+{
+	"Preload": {},
+	"Postload": {
+		"trol.rpak": "common.rpak"
+	}
+}

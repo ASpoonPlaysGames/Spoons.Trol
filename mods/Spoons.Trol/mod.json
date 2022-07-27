@@ -1,0 +1,6 @@
+{
+	"Name": "Spoons.Trol",
+	"Description": ":trol:\nLiterally just changes the satchel detonator light to be a trol face\nNo mipmaps yet so i'll update this mod maybe when they are figured out",
+	"Version": "1.0.0",
+	"LoadPriority": 1
+}
